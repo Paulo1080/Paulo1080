@@ -20,6 +20,8 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Paulo-Angular" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Paulo-java" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
    
