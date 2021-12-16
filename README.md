@@ -1,4 +1,4 @@
-### Olá! eu sou o Paulo1080 👋
+### Olá! eu sou o Paulo 👋
  
 - 🌱 Estudo Engenharia de Computação (8/10)
 - 📫 Email: Pmoraes1080@gmail.com
