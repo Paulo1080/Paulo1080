@@ -1,6 +1,6 @@
  🌎 Hello, my name is Paulo Moraes 👋
  
- 🌱 Computer Engineering Study (8/10).
+ 🌱 Computer Engineering Study (9/10).
  
  📫 Email: Pmoraes1080@gmail.com
  
