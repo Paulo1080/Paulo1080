@@ -1,9 +1,8 @@
- 🌎 Hello, my name is Paulo Moraes 👋
- 
- 🌱 Computer Engineering Study (9/10).
- 
- 📫 Email: Pmoraes1080@gmail.com
- 
+<div>
+ <p>🌎 Hello, my name is Paulo Moraes 👋</p>
+ <p>🌱 Computer Engineering Study (9/10).</p>
+ <p>📫 Email: Pmoraes1080@gmail.com</p>
+</div>
 <div align="center">
   <a href="https://github.com/Paulo1080">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo1080&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,9 +26,6 @@
   <img align="center" alt="Paulo-Angular" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Paulo-java" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-
-   
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
 </div>
 
